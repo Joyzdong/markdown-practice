@@ -54,7 +54,6 @@ _**이탤릭 + 두껍게**_
 <a href="https://google.com">GOOGLE</a>
 
 [GOOGLE](https://google.com)
-![GOOGLE](https://google.com)
 
 <a href="https://naver.com" title="NAVER로 이동!">NAVER</a>
 
@@ -135,3 +134,6 @@ fixed | 뷰포트 | X
 ***
 ___
 ---
+
+<!-- 순서가 없는 아이템 -->
+
